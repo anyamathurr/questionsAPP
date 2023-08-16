@@ -54,6 +54,7 @@ Button("wine") {
     .font(.largeTitle)
   .padding(.all)
    
+    //this is a comment!
     
     NavigationLink(destination: secondView()) {Text("click for the main course")
             .font(.footnote)
